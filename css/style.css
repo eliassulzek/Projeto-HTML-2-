@@ -1,0 +1,12 @@
+html,
+
+.wrapper {
+  background-image: 
+  url ('path/Nuvem Voadora.png')
+  background-size: cover;
+  font-family: 'DynaPuff', cursive;
+  background-color: #00000;
+  display: flex;
+  margin: 5px auto;
+}
+
